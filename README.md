@@ -37,7 +37,7 @@ Disclaimer: This script is believed to be completely safe to run, but use this s
 
 ### Easy method
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win10Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/archive/refs/heads/main.zip), and extract the .ZIP file to your desired location.
 2. Navigate to the Win10Debloat folder
 3. Double click the 'Run.bat' file to start the script. Note: If the console window immediately closes and nothing happens, try the advanced method below.
 4. Accept the windows UAC prompt to run the script as administrator, this is required for the script to function.
@@ -47,7 +47,7 @@ Disclaimer: This script is believed to be completely safe to run, but use this s
 
 This method gives you the option to run the script with certain parameters to tailor the behaviour of the script to your needs without requiring any user input during runtime, making it quicker and easier to deploy on a large number of systems.
 
-1. [Download the latest version of the script](), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/archive/refs/heads/main.zip), and extract the .ZIP file to your desired location.
 2. Open powershell as an administrator.
 3. Enable powershell execution by entering the following command: `Set-ExecutionPolicy Unrestricted -Force`
 4. In powershell, navigate to the directory where the files were extracted. Example: `cd c:\\Win10Debloat`
