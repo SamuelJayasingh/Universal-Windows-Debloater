@@ -183,4 +183,17 @@ All of these changes can be individually reverted with the registry files that a
 
 ![Uwd Win 11](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/48df611e-b506-4bdc-9739-7de490f4b55d)
 
+## Contribution
+
+- If you have any suggestions to this README or about the Script, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
+
+- Your Contributions are much welcomed here!
+   > Fork the project
+   > > Compile your work
+   > > > Call in for a Pull Request
+
+Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
+
+Last Edited on: 27/06/2023
+
 
