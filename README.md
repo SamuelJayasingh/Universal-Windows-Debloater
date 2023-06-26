@@ -51,7 +51,7 @@ This method gives you the option to run the script with certain parameters to ta
 2. Open powershell as an administrator.
 3. Enable powershell execution by entering the following command: `Set-ExecutionPolicy Unrestricted -Force`
 4. In powershell, navigate to the directory where the files were extracted. Example: `cd c:\\Universal-Windows-Debloater
-5. Enter this into powershell to run the script: `.\Win10Debloat.ps1`
+5. Enter this into powershell to run the script: `.\Universal Windows Debloater.ps1`
 6. A menu will now open. Select either the default or custom setup to continue.
 
 To run the script without any user input, simply add parameters at the end, example: `.\Universal Windows Debloater.ps1 -RemoveApps -DisableBing`
