@@ -47,7 +47,7 @@ Disclaimer: This script is believed to be completely safe to run, but use this s
 
 This method gives you the option to run the script with certain parameters to tailor the behaviour of the script to your needs without requiring any user input during runtime, making it quicker and easier to deploy on a large number of systems.
 
-1. [Download the latest version of the script](https://github.com/Raphire/Win10Debloat/archive/master.zip), and extract the .ZIP file to your desired location.
+1. [Download the latest version of the script](), and extract the .ZIP file to your desired location.
 2. Open powershell as an administrator.
 3. Enable powershell execution by entering the following command: `Set-ExecutionPolicy Unrestricted -Force`
 4. In powershell, navigate to the directory where the files were extracted. Example: `cd c:\\Win10Debloat`
