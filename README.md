@@ -29,7 +29,7 @@ You can pick and choose exactly which modifications you want the script to make,
 - Hide the Chat & Widget icons from the taskbar.
 
 ## The 'Custom' option allows you to customize the script to your exact needs
-A full list of what changes this script can make can be found [here](#improve-your-windows-10/11-experience). 
+A full list of what changes this script can make can be found [here](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/blob/main/README.md#improve-your-windows-1011-experience). 
 
 ## Usage
 
