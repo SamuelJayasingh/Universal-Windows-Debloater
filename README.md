@@ -179,7 +179,7 @@ All of these changes can be individually reverted with the registry files that a
 
 ![Uwd Win10](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/93075ddc-49e8-4bb8-a7cc-d798500d4dd4)
 
--Universal Windows Debloater with Default Windows 11 Settings
+-Universal Windows Debloater with Custom Configuration
 
 ![Uwd Win 11](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/48df611e-b506-4bdc-9739-7de490f4b55d)
 
