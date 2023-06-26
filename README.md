@@ -167,3 +167,20 @@ This script can also make various changes to declutter & improve your overall wi
 - Disable the 'Share' from context menu. (Does not remove the onedrive share option)
 
 All of these changes can be individually reverted with the registry files that are included in the 'Regfiles' folder.
+
+
+## Screenshots
+
+- Universal Windows Debloater
+
+![Universal Windows Debloater](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/3320327c-5ab2-419f-8d26-881a542e2737)
+
+- Universal Windows Debloater with Default Windows 10 settings
+
+![Uwd Win10](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/93075ddc-49e8-4bb8-a7cc-d798500d4dd4)
+
+-Universal Windows Debloater with Default Windows 11 Settings
+
+![Uwd Win 11](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/assets/80147472/48df611e-b506-4bdc-9739-7de490f4b55d)
+
+
