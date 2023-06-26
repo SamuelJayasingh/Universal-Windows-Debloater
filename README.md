@@ -50,11 +50,11 @@ This method gives you the option to run the script with certain parameters to ta
 1. [Download the latest version of the script](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/archive/refs/heads/main.zip), and extract the .ZIP file to your desired location.
 2. Open powershell as an administrator.
 3. Enable powershell execution by entering the following command: `Set-ExecutionPolicy Unrestricted -Force`
-4. In powershell, navigate to the directory where the files were extracted. Example: `cd c:\\Win10Debloat`
+4. In powershell, navigate to the directory where the files were extracted. Example: `cd c:\\Universal-Windows-Debloater
 5. Enter this into powershell to run the script: `.\Win10Debloat.ps1`
 6. A menu will now open. Select either the default or custom setup to continue.
 
-To run the script without any user input, simply add parameters at the end, example: `.\Win10Debloat.ps1 -RemoveApps -DisableBing`
+To run the script without any user input, simply add parameters at the end, example: `.\Universal Windows Debloater.ps1 -RemoveApps -DisableBing`
 
 | Parameter | Description |
 | --------- | ----------- |
@@ -76,7 +76,7 @@ To run the script without any user input, simply add parameters at the end, exam
 
 ## Debloat Windows 10/11
 
-By default, this script only removes preinstalled apps that most people are unlikely to ever need or use. You can of course customize which apps are removed by this script by editing the apps list found in the 'Win10Debloat.ps1' file.
+By default, this script only removes preinstalled apps that most people are unlikely to ever need or use. You can of course customize which apps are removed by this script by editing the apps list found in the 'Universal Windows Debloater.ps1' file.
 
 ### These apps will be deleted by default
 
