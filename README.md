@@ -38,10 +38,10 @@ Disclaimer: This script is believed to be completely safe to run, but use this s
 ### Easy method
 
 1. [Download the latest version of the script](https://github.com/SamuelJayasingh/Universal-Windows-Debloater/archive/refs/heads/main.zip), and extract the .ZIP file to your desired location.
-2. Navigate to the Win10Debloat folder
+2. Navigate to the Universal-Windows-Debloater folder
 3. Double click the 'Run.bat' file to start the script. Note: If the console window immediately closes and nothing happens, try the advanced method below.
 4. Accept the windows UAC prompt to run the script as administrator, this is required for the script to function.
-5. A new powershell window will now open, showing the Win10Debloat menu. Select either the default or custom setup to continue.
+5. A new powershell window will now open, showing the Universal-Windows-Debloater menu. Select either the default or custom setup to continue.
 
 ### Advanced method
 
